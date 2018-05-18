@@ -8,5 +8,5 @@ remove tweets older than a day to keep timeline so fresh and so clean clean
 2. rename creds.py-TEMPLATE to creds.py
 3. enter various keys and tokens, as well as twitter handle, in creds.py
 4. execute app.py to remove older tweets
-5. use crontab or whatever to run script continuously
+5. use crontab or whatever to run script regularly
 
