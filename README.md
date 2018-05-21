@@ -1,6 +1,6 @@
 # moldy-tweets
 
-remove tweets older than eight hours to keep timeline so fresh and so clean clean
+remove tweets older than n hours to keep timeline so fresh and so clean clean
 
 # setup
 
